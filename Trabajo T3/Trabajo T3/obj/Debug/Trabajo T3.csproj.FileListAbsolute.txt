@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\Trabajo T3\Trabajo T3\bin\Debug\Trabajo T3.exe.config
+C:\Users\LENOVO\source\repos\Trabajo T3\Trabajo T3\bin\Debug\Trabajo T3.exe
+C:\Users\LENOVO\source\repos\Trabajo T3\Trabajo T3\bin\Debug\Trabajo T3.pdb
+C:\Users\LENOVO\source\repos\Trabajo T3\Trabajo T3\obj\Debug\Trabajo T3.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Trabajo T3\Trabajo T3\obj\Debug\Trabajo_T3.Form1.resources
+C:\Users\LENOVO\source\repos\Trabajo T3\Trabajo T3\obj\Debug\Trabajo_T3.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Trabajo T3\Trabajo T3\obj\Debug\Trabajo T3.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Trabajo T3\Trabajo T3\obj\Debug\Trabajo T3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Trabajo T3\Trabajo T3\obj\Debug\Trabajo T3.exe
+C:\Users\LENOVO\source\repos\Trabajo T3\Trabajo T3\obj\Debug\Trabajo T3.pdb
+C:\Users\LENOVO\source\repos\Trabajo T3\Trabajo T3\obj\Debug\Trabajo_T3.Registro.resources
